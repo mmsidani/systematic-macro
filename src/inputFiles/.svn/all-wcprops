@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles
+END
+request-Indexes.csv
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles/request-Indexes.csv
+END
+constraints-Base.r
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles/constraints-Base.r
+END
+mapping-CountryCode.csv
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles/mapping-CountryCode.csv
+END
+request-OtherEquityIndexes.csv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles/request-OtherEquityIndexes.csv
+END
+mapping-field2Divisor.csv
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles/mapping-field2Divisor.csv
+END
+mapping-ExchangeCountry.csv
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles/mapping-ExchangeCountry.csv
+END
+request-GDP.csv
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles/request-GDP.csv
+END
+constraintsFiles.R
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles/constraintsFiles.R
+END
+request-EquityIndexesMembers.csv
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles/request-EquityIndexesMembers.csv
+END
+request-CPI.csv
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles/request-CPI.csv
+END
+mapping-SportacusFields.csv
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles/mapping-SportacusFields.csv
+END
+constraints-Extended.csv
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles/constraints-Extended.csv
+END
+constraints-Extended.r
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles/constraints-Extended.r
+END
+request-CPIRate.csv
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles/request-CPIRate.csv
+END
+constraints-Base.csv
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles/constraints-Base.csv
+END
+pcainput.csv
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/inputFiles/pcainput.csv
+END

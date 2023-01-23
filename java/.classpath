@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="//Sol/blp/API/APIv3/JavaAPI/v3.6.1.0/bin/blpapi-3.6.1-0.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution
+END
+sourceCreateLivePriceFilesExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/sourceCreateLivePriceFilesExec.R
+END
+makeMacroBucketsExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/makeMacroBucketsExec.R
+END
+portfolioSimulationExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/portfolioSimulationExec.R
+END
+portfolioMixerExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/portfolioMixerExec.R
+END
+displayPaletteExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/displayPaletteExec.R
+END
+uploadToRateHeaderTableExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/uploadToRateHeaderTableExec.R
+END
+sourceDailyBatchExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/sourceDailyBatchExec.R
+END
+corpsExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/corpsExec.R
+END
+leverageItExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/leverageItExec.R
+END
+dbToFileExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/dbToFileExec.R
+END
+predictExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/predictExec.R
+END
+earnFromPEExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/earnFromPEExec.R
+END
+macroBucketExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/macroBucketExec.R
+END
+frontierBuilderExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/frontierBuilderExec.R
+END
+eurolegacyExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/eurolegacyExec.R
+END
+makeForwardBackwardExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/makeForwardBackwardExec.R
+END
+bloombergDataExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/bloombergDataExec.R
+END
+pcaExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/pcaExec.R
+END
+predictBuildRebExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/predictBuildRebExec.R
+END
+correlationsExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/correlationsExec.R
+END
+dailyTotalCapitalExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/dailyTotalCapitalExec.R
+END
+sharpeRatiosExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/sharpeRatiosExec.R
+END
+sourcePositionsTemplateExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/sourcePositionsTemplateExec.R
+END
+actualPortfolioReturnExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/actualPortfolioReturnExec.R
+END
+dailyRbatchandload.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/dailyRbatchandload.bat
+END
+multiStrategyExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/multiStrategyExec.R
+END
+dailyMINIBatchExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/dailyMINIBatchExec.R
+END
+positionsTemplate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/positionsTemplate.bat
+END
+modelEvaluatorExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/modelEvaluatorExec.R
+END
+positionsTemplateExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/positionsTemplateExec.R
+END
+totalReturnExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/totalReturnExec.R
+END
+positionsLoadExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/positionsLoadExec.R
+END
+plotInvestableUnivDataExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/plotInvestableUnivDataExec.R
+END
+varExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/varExec.R
+END
+createLivePriceFiles.bat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/createLivePriceFiles.bat
+END
+createLivePriceFilesExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/createLivePriceFilesExec.R
+END
+createLivePXExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/createLivePXExec.R
+END
+frontierAnalysisExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/frontierAnalysisExec.R
+END
+makeHistoricalExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/makeHistoricalExec.R
+END
+wbDataExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/wbDataExec.R
+END
+buildSimulateExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/buildSimulateExec.R
+END
+dailyBatchExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/dailyBatchExec.R
+END
+portfolioSimStatsExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/portfolioSimStatsExec.R
+END
+slopesExec.R
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/execution/slopesExec.R
+END

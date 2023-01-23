@@ -1,0 +1,35 @@
+bberg field,SA2 suffix,Divisor
+PX_LAST,,1
+TOT_RETURN_INDEX_GROSS_DVDS,jp.property.tr,1
+EQY_DVD_YLD_12M,.dvd.yld,100
+ENTERPRISE_VALUE,.ev,1
+CURR_ENTP_VAL,.currentev,1
+EV_TO_T12M_EBITDA,.evebitda,1
+NET_DEBT_PER_SHARE,.netdebtpershare,1
+PE_RATIO,.pe,1
+TRAIL_12M_EPS,.earnings,1
+EBIT,.ebit,1
+EBITDA,.ebitda,1
+TRAIL_12M_EBITDA,.trail12mebitda,1
+CUR_MKT_CAP,.totalmarketcap,1
+TOT_MKT_VAL,.totalmarketvalue,1
+WORKING_CAPITAL,.workingcap,1
+CF_CASH_FROM_OPER,.cashforops,1
+BS_CROSS_FIX_ASSET,.fixedassets,1
+CRNCY,,
+NAME,,
+SHORT_NAME,,
+NET_SALES_PRE_TAXES,.netpretaxsales,1
+TRAIL_12M_SALES_PER_SH,.salespershare,1
+TRAIL_12M_NET_SALES,.netsales,1
+TRAIL_12M_GROSS_MARGIN,.grossmargin,1
+BS_SH_OUT,.sharesoutstanding,1
+NET_DEBT,.netdedt,1
+BS_NET_FIX_ASSET,.netfixedassets,1
+BS_TOT_ASSETS,.totalassets,1
+Book Value,.bookvalue,1
+BOOK_VAL_PER_SH,.bookvaluepershare,1
+TOT_COMMON_EQY,.totalcommonequity,1
+T12M_DIL_EPS_CONT_OPS,.dilepscontops,1
+LAST_CLOSE_TRR_1D,.bloombergdtr,1
+RETURN_ON_ASSET,.returnonassets,1

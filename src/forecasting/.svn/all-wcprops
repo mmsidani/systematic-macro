@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/forecasting
+END
+bondRiskModels.R
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/forecasting/bondRiskModels.R
+END
+tipsReturnModels.R
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/forecasting/tipsReturnModels.R
+END
+equityReturnModels.R
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/forecasting/equityReturnModels.R
+END
+bondReturnModels.R
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/forecasting/bondReturnModels.R
+END
+predict.R
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/forecasting/predict.R
+END
+tipsRiskModels.R
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/forecasting/tipsRiskModels.R
+END
+equityRiskModels.R
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/forecasting/equityRiskModels.R
+END

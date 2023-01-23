@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/portfolioConstruction
+END
+downsideOpt.R
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/portfolioConstruction/downsideOpt.R
+END
+frontierBuilder.R
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/portfolioConstruction/frontierBuilder.R
+END
+specialPortfolios.R
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/portfolioConstruction/specialPortfolios.R
+END
+portfolioMixer.R
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/portfolioConstruction/portfolioMixer.R
+END
+varianceCovariance.R
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/portfolioConstruction/varianceCovariance.R
+END
+madOpt.R
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/portfolioConstruction/madOpt.R
+END
+mvOpt.R
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/portfolioConstruction/mvOpt.R
+END
+hmOpt.R
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/portfolioConstruction/hmOpt.R
+END
+fbUtils.R
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/portfolioConstruction/fbUtils.R
+END
+constructionMethods.R
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/src/portfolioConstruction/constructionMethods.R
+END

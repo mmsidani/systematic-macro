@@ -1,0 +1,7 @@
+,us.gg.10y,ge.equity,fr.cac40,uk.equity,sw.omx30,eu.stxe600,jp.equity,au.asx200,sg.mscifree,ca.tsx60,hk.equity,nl.equity,sp.ibex35
+ret_risk_hurdle,-100,-100,-100,-100,-100,-100,-100,-100,-100,-100,-100,-100,-100
+max_weight,1,1,1,1,1,1,1,1,1,1,1,1,1
+min_weight,0,0,0,0,0,0,0,0,0,0,0,0,0
+asset_class,bond,equity,equity,equity,equity,equity,equity,equity,equity,equity,equity,equity,equity
+max_weight_class,1,1,1,1,1,1,1,1,1,1,1,1,1
+min_weight_class,0,0,0,0,0,0,0,0,0,0,0,0,0

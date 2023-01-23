@@ -1,0 +1,1 @@
+alter table tbl_sa2_macro_data add constraint CheckRevisableConstraint  check (not (dbo.CheckSA2MacroRevisable(Rate_Id, Date, 0) > 1) AND not( dbo.CheckSA2MacroRevisable(Rate_Id, Date, 0) > 0 AND dbo.CheckSA2MacroRevisable(Rate_Id, Date, 1) > 0 ))

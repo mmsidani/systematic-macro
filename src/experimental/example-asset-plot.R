@@ -1,0 +1,1 @@
+draw.areaPlot("screen","c:/Users/Majed/devel/InOut/plot.png",periodAC[periodAC$Date >= "1997-01-01" & periodAC$Date <= "1998-12-31",3:ncol(acWeights)],"SA2 Bellwether Risk Profile","Date","Weight","%Y-%m-%d",global.palette(),global.pngSettings())

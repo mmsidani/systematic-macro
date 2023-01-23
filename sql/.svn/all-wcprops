@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/sql
+END
+recoverPK_Identity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/sql/recoverPK_Identity.sql
+END
+CheckSA2MacroTable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/sql/CheckSA2MacroTable.sql
+END
+SetRevisableMacroConstraint.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/main/!svn/ver/1576/SA2/tags/2.6.10/sql/SetRevisableMacroConstraint.sql
+END

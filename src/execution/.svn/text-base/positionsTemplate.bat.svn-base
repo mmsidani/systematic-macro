@@ -1,0 +1,1 @@
+"c:\Program Files\R\R-3.0.2\bin\x64\RScript.exe" --vanilla --default-packages=base,stats,utils sourcePositionsTemplateExec.R

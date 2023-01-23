@@ -1,0 +1,7 @@
+bberg field,SA2 suffix,Divisor
+EBIT,.ebit,1
+BS_CUR_ASSET_REPORT,.curasset,1
+BS_CUR_LIAB,.curliab,1
+BS_ST_BORROW,.stborrow,1
+CURR_ENTP_VAL,.ev,1
+BS_CASH_NEAR_CASH_ITEM,.cashstinvsh,1
